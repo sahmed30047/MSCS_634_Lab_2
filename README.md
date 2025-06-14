@@ -1,0 +1,4 @@
+Name: Shaffan Ahmed 
+Student ID: 005030047
+
+This repository contains the completed work for the lab assignment focused on implementing and comparing K-Nearest Neighbors (KNN) and Radius Neighbors (RNN) classifiers on the Wine dataset from scikit-learn using Python in a Jupyter Notebook. The purpose of the lab was to load and explore the dataset, train KNN and RNN models with various parameters (k values: 1, 5, 11, 15, 21; radius values: 350, 400, 450, 500, 550, 600), evaluate their performance, and visualize accuracy trends to compare their effectiveness. Key insights from the accuracy trends show that KNN consistently outperformed RNN, achieving accuracies above 0.9 for smaller k values (e.g., k=5), indicating its suitability for the dense, well-separated Wine dataset, while RNN accuracies were lower (often below 0.7) and more variable, likely due to sensitivity to outliers and inappropriate radius settings. 
